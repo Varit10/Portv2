@@ -1,0 +1,464 @@
+{
+  "hero": {
+    "imgUrl": "/images/varits.svg",
+    "name": "Varits Gorga",
+    "heading": "Hay! I’m Varits",
+    "typingText": [
+      "I'm a Designer",
+      1500,
+      "I'm a Developer",
+      1500,
+      "I'm a Editor",
+      1500
+    ],
+    "description": "Hello! I'm a dynamic UI/UX and Front End Developer with 5 years of rich experience. My journey began in vocational high school, where I honed my skills as a Digital Creative, crafting designs, developing websites, and producing compelling videos. Let's elevate your projects together",
+    "btnText": "Get in touch",
+    "btnUrl": "contact me"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/varits.gorga/"
+    },
+    {
+      "icon": "fa-brands:instagram",
+      "iconBgClass": "dribbble",
+      "href": "https://www.instagram.com/varts_grga/?hl=id"
+    },
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/varits-gorga-4258a4216/"
+    }
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/deve.svg",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE FOR <span>DESIGN, DEVELOPMENT, EDITING</span> PROJECTS",
+    "description": "With over 5 years of expertise and 50+ successful projects for diverse clients, I'm poised to catapult your company's growth. My human-centric approach ensures reliable, innovative solutions that captivate and sell.",
+    "funfacts": [
+      {
+        "title": "Client Handle",
+        "number": 50
+      },
+      {
+        "title": "Years Experience",
+        "number": 5
+      },
+      {
+        "title": "Awward Winning",
+        "number": 5
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/omsetku-apps.png",
+        "title": "Omsetku",
+        "subTitle": "App Design",
+        "details": {
+          "title": "Sales Automation Application",
+          "description": "Omsetku is a powerful contemporary sales & CRM application with 1 application that can cover all business needs",
+          "type": "Application",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Play Store & APP Store",
+          "country": "INDONESIA",
+          "url": "https://shorturl.at/wINX4"
+        }
+      },
+      {
+        "thumbUrl": "/images/evamedia.png",
+        "title": "Evamedia",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Digital marketing service provider website to increase the value of the products sold, with help from Evamedia you can increase product engagement",
+          "type": "Website",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Content Management System",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/3vtEgpa"
+        }
+      },
+      {
+        "thumbUrl": "/images/opa.png",
+        "title": "Sleep Tacker Design",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Sleep Tracker/prevent Fatigue Dashboard",
+          "description": "A system used to record and track operator sleep data to prevent fatigue or accidents while working",
+          "type": "Website",
+          "langages": "FIGMA, ADOBE CLUB & API",
+          "platform": "Content Management System",
+          "country": "USA",
+          "url": "https://bit.ly/3PDxFzg"
+        }
+      },
+      {
+        "thumbUrl": "/images/gss-apps.png",
+        "title": "Sleep Monitoring Design",
+        "subTitle": "App Design",
+        "details": {
+          "title": "Website Design for Marketing Agency Startup",
+          "description": "Sleep monitoring application with real-time data and multi-role access",
+          "type": "Application",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Play Store & APP Store",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/4axzB4t"
+        }
+      },
+      {
+        "thumbUrl": "/images/asean.png",
+        "title": "ASEAN LMS",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "ASEAN Learning Management Sysem",
+          "description": "I am proud to have been appointed as lead design on an ASEAN project regarding learning management systems",
+          "type": "Website",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Content Management System",
+          "country": "Malaysia, Singapore, and Indonesia",
+          "url": "https://bit.ly/3TQdbpj"
+        }
+      },
+      {
+        "thumbUrl": "/images/ranksb.png",
+        "title": "Governance palm Oil Project",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website Design for Ministry of Agriculture and Ministry of Home Affairs",
+          "description": "I am proud to have been appointed as lead designer for a project from the Ministry of Plantations and Home Affairs to design a sustainable palm oil system.",
+          "type": "Website",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Content Management System",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/499Dyen"
+        }
+      },
+      {
+        "thumbUrl": "/images/news.png",
+        "title": "News Portal Design",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website Design for companies that want to have a news portal",
+          "description": "website based news service provider",
+          "type": "Website",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Content Management System",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/43y5A1U"
+        }
+      },
+      {
+        "thumbUrl": "/images/download.png",
+        "title": "Download Portal Design",
+        "subTitle": "Web Design",
+        "details": {
+          "title": "Website Design for databases apps, manual book, and tutorial video",
+          "description": "A website that is used to store applications that have been released and not only applications but also manuals and video tutorials",
+          "type": "Website",
+          "langages": "FIGMA & ADOBE CLUB",
+          "platform": "Content Management System",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/3Vz8Qbj"
+        }
+      },
+      {
+        "thumbUrl": "/images/omsetku-lp.png",
+        "title": "CRM Landing Page",
+        "subTitle": "Web Design & Web Development",
+        "details": {
+          "title": "Sales Automation Website",
+          "description": "Omsetku is a powerful contemporary sales & CRM application with 1 application that can cover all business needs",
+          "type": "Website",
+          "langages": "PHP, LARAVEL, CSS, HTML, JS",
+          "platform": "Content Management System",
+          "country": "INDONESIA",
+          "url": "https://omsetku-dev.globaldeva.com/"
+        }
+      },
+      {
+        "thumbUrl": "/images/eva sos.png",
+        "title": "Evamedia Social Media",
+        "subTitle": "Social Media",
+        "details": {
+          "title": "Evamedia Social Media",
+          "description": "Instagram and facebook feeds, story, and reels",
+          "type": "Social Media",
+          "langages": "ADOBE CLUB",
+          "platform": "Instagram & Facebook",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/3IQB2PB"
+        }
+      },
+      {
+        "thumbUrl": "/images/oms sos.png",
+        "title": "Omsetku Social Media",
+        "subTitle": "Social Media",
+        "details": {
+          "title": "Omsetku Social Media",
+          "description": "Instagram and facebook feeds, story, and reels",
+          "type": "Social Media",
+          "langages": "ADOBE CLUB",
+          "platform": "Instagram & Facebook",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/3xeGJ7u"
+        }
+      },
+      {
+        "thumbUrl": "/images/fcl sos.png",
+        "title": "FCL Social Media",
+        "subTitle": "Social Media",
+        "details": {
+          "title": "Fajar Cargo Logistic Social Media",
+          "description": "Instagram and facebook feeds, story, and reels",
+          "type": "Social Media",
+          "langages": "ADOBE CLUB",
+          "platform": "Instagram & Facebook",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/4aeXEFC"
+        }
+      },
+      {
+        "thumbUrl": "/images/goo sos.png",
+        "title": "Goodeva Social Media",
+        "subTitle": "Social Media",
+        "details": {
+          "title": "Goodeva Social Media",
+          "description": "Instagram and facebook feeds, story, and reels",
+          "type": "Social Media",
+          "langages": "ADOBE CLUB",
+          "platform": "Instagram & Facebook",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/3ITxn3u"
+        }
+      },
+      {
+        "thumbUrl": "/images/sma sos.png",
+        "title": "Smart Safety Social Media",
+        "subTitle": "Social Media",
+        "details": {
+          "title": "Smart Safety Social Media",
+          "description": "Instagram and facebook feeds, story, and reels",
+          "type": "Social Media",
+          "langages": "ADOBE CLUB",
+          "platform": "Instagram & Facebook",
+          "country": "INDONESIA",
+          "url": "https://bit.ly/4cudJZs"
+        }
+      },
+      {
+        "thumbUrl": "/images/smar yt.png",
+        "title": "Smart Safety Video",
+        "subTitle": "Video",
+        "details": {
+          "title": "Smart Safety announcement video",
+          "description": "Smart Safety Announcement Youtube Video",
+          "type": "Video",
+          "langages": "ADOBE Illustrator, Photoshop, After effect, Premiere Pro",
+          "platform": "Youtube",
+          "country": "INDONESIA",
+          "url": "https://shorturl.at/xzEGV"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "All <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/uiux.jpg",
+        "title": "Website Design",
+        "subTitle": "Crafting captivating web designs that elevate your brand's online presence. Let's collaborate today!",
+        "icon": "bi:brush-fill",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/coding.jpg",
+        "title": "Website Development",
+        "subTitle": "Building dynamic websites tailored to your needs. Elevate your online presence with my expertise!",
+        "icon": "bi:code-square",
+        "ratings": 5
+      },
+      {
+        "imgUrl": "/images/video.jpg",
+        "title": "Editing Video",
+        "subTitle": "Transforming your vision into stunning video creations. Elevate your content with our editing expertise!",
+        "icon": "bi:camera-video",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/images/design.jpg",
+        "title": "Graphic Design",
+        "subTitle": "Elevate your brand with captivating graphic designs. Let our creativity tell your story!",
+        "icon": "bi:palette",
+        "ratings": 5
+      }
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Intern Graphic Design",
+        "company": "ON SITE",
+        "duration": "APR 2021 - JUL 2021",
+        "jobType": "Full time intern",
+        "companyTitle": "Goodeva Technology",
+        "companyDescription": "Being an intern at Goodeva Technology is like painting with pixels, where every stroke of creativity merges seamlessly with innovation, crafting designs that not only captivate but also redefine the future of technology."
+      },
+      {
+        "designation": "Illustrator Artist",
+        "company": "REMOTE",
+        "duration": "JAN 2022 - OCT 2022",
+        "jobType": "Part time",
+        "companyTitle": "Naver Z Corp | Zepetto",
+        "companyDescription": "Freelancing as an illustration artist with Naver Z Corp is like dancing on the digital canvas of innovation. With each stroke of creativity, I craft visual narratives that breathe life into ideas, collaborating with a powerhouse of talent to shape the visual landscape of tomorrow."
+      },
+      {
+        "designation": "Logo Design",
+        "company": "REMOTE",
+        "duration": "APR 2023",
+        "jobType": "Part time",
+        "companyTitle": "Java Rilis",
+        "companyDescription": "Freelancing as a logo designer with Javarilis is akin to sculpting brand identities from raw inspiration. With each sleek line and vibrant hue, I fuse creativity with strategy, crafting timeless symbols that resonate with purpose. Together, we carve the path for brands to stand tall amidst the digital cacophony"
+      },
+      {
+        "designation": "UI/UX Design",
+        "company": "REMOTE",
+        "duration": "APR 2023",
+        "jobType": "Part time",
+        "companyTitle": "Java Rilis",
+        "companyDescription": "Freelancing as a UI/UX designer with Javarilis is akin to orchestrating digital symphonies where every pixel harmonizes with user experience. With each interface I craft, I blend aesthetics with functionality, creating immersive journeys that captivate and compel. Together, we shape the digital landscape, one intuitive design at a time."
+      },
+      {
+        "designation": "UI/UX Design, Graphic Design, Video Editor",
+        "company": "REMOTE",
+        "duration": "AUG 2021 - MAY 2022",
+        "jobType": "Part time",
+        "companyTitle": "Goodeva Technology",
+        "companyDescription": "Freelancing as a UI/UX Designer, Graphic Designer, and Video Editor with Goodeva Technology is like conducting a multidimensional symphony of digital creativity. From sculpting seamless user experiences to weaving captivating visuals and narratives, every project is an opportunity to innovate and inspire. Together, we redefine the boundaries of digital expression, creating experiences that leave a lasting impact on users and audiences alike."
+      },
+      {
+        "designation": "Fiverr",
+        "company": "REMOTE",
+        "duration": "JUN 2022 - PRESENT",
+        "jobType": "Freelance",
+        "companyTitle": "FIVERR",
+        "companyDescription": "Freelancing on Fiverr is like embarking on a global voyage of creativity, where every gig is a new destination waiting to be explored. From crafting compelling logos to designing immersive websites, the platform is a bustling marketplace of talent and opportunity. With each project, I dive into a world of diverse needs and challenges, delivering top-notch solutions that exceed expectations and leave a lasting impression."
+      },
+      {
+        "designation": "CREATIVE DIGITAL",
+        "company": "ON SITE",
+        "duration": "AUG 2022 - AUG 2024",
+        "jobType": "Full time",
+        "companyTitle": "Goodeva Technology",
+        "companyDescription": "Working as a Creative Digital dynamo at Goodeva Technology feels like being at the heart of a digital renaissance. As a versatile force, I seamlessly blend the roles of web developer, web designer, video editor, graphic designer, and senior front-end developer into a symphony of innovation. Each project is an opportunity to weave together code, design, and storytelling, creating immersive experiences that push boundaries and inspire awe. Together, we craft digital masterpieces that not only captivate audiences but also redefine the very essence of technology."
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>100+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Kami sangat terkesan dengan kinerja Varits dalam desain dan pengembangan. Kreativitas, ketelitian, dan dedikasinya luar biasa. Dia adalah aset berharga bagi perusahaan kami",
+        "avatarImg": "/images/salma.jpeg",
+        "avatarName": "Salma Fitria",
+        "avatarCompany": "HR at Goodeva Technology"
+      },
+      {
+        "reviewText": "Saya sangat bangga dengan kemampuan desain Varits. Keterampilan dan ketelitiannya luar biasa. Dia adalah aset berharga bagi tim, saya merekomendasikannya tanpa ragu untuk setiap proyek.",
+        "avatarImg": "/images/abdel.jpeg",
+        "avatarName": "Abdel Muzakki",
+        "avatarCompany": "Creative Lead at Goodeva Technology"
+      },
+      {
+        "reviewText": "Dengan keahlian desain dan pengembangan website yang luar biasa, Varits menciptakan karya-karya yang benar-benar memukau. Setiap detailnya dipelajari dengan hati-hati, menghasilkan pengalaman online yang tak terlupakan. Saya sangat merekomendasikan Varits untuk solusi website berkualitas tinggi",
+        "avatarImg": "/images/dimas.jpeg",
+        "avatarName": "Dimas Pamadyo Utomo",
+        "avatarCompany": "Evamedia Digital Creative"
+      },
+      {
+        "reviewText": "Kerja sama dengan Varits luar biasa. Desainnya menginspirasi, memudahkan implementasi, dan meningkatkan pengalaman pengguna. Kita berhasil menciptakan produk luar biasa berkat sinergi ini",
+        "avatarImg": "/images/agnia.jpeg",
+        "avatarName": "Agnia Pinasti",
+        "avatarCompany": "Fullstack Programmer"
+      },
+      {
+        "reviewText": "Desain Anda mengubah permainan. Memukau, memikat, dan memenuhi tujuan pemasaran kami dengan sempurna. Anda tidak hanya mendesain, Anda menciptakan karya seni yang memengaruhi. Luar biasa!",
+        "avatarImg": "/images/ignas.jpeg",
+        "avatarName": "Ignasius Pristya Putra",
+        "avatarCompany": "CMO at Goodeva Technology"
+      },
+      {
+        "reviewText": "Kerja sama dengan Varits luar biasa. Desainnya menginspirasi, memudahkan implementasi, dan meningkatkan pengalaman pengguna. Kita berhasil menciptakan produk luar biasa berkat kolaborasi ini",
+        "avatarImg": "/images/valdi.png",
+        "avatarName": "Muhammad Rivaldi",
+        "avatarCompany": "Programmer at Goodeva"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing and working if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact.svg",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "varits.gorga106@gmail.com" },
+      { "title": "Contact on phone", "tel": "+62 8212 3540 030" }
+    ]
+  }
+}
